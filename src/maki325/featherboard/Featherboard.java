@@ -127,11 +127,6 @@ public class Featherboard extends JavaPlugin implements Listener {
 	}
 	
 	public void setupDB() {
-		host = "old.mysql.anvilnode.com";
-		port = 3306;
-		username = "mc_4188";
-		database = "mc_4188";
-		password = "175c1fd1f5";
 		
 		synchronized (this){
 			try {
