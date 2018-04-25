@@ -1,0 +1,8 @@
+name: Featherboard
+main: maki325.featherboard.Featherboard
+version: 1.0
+author: Maki325
+commands:
+   board:
+      description: Activates/Deactivates the scoreboard, can add,remove and edit lines...
+      usage: /board help
